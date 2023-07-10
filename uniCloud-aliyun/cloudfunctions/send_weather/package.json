@@ -1,0 +1,7 @@
+{
+  "name": "send_weather",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
